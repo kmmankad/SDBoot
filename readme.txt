@@ -10,6 +10,8 @@ This is actually a stock USB HID bootloader that has been given this extra funct
 attempt,the bootloader will enumerate as a USB HID too,and can accept the program CYACD file from there as well.
 Hence this extra feature can be added easily to any kind of existing bootloader,or can also function standalone.
 
+Note that this uses the emFile Component,and hence will need its dependent source files which can be downloaded from http://www.cypress.com/go/comp_emfile
+
 This code has been tested with the CY8CKIT-030,and the microSD module from www.embeddedmarket.com with PSoC Creator updated to Component Pack 3.
 
 -kmmankad
