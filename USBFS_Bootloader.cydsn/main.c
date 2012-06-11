@@ -16,7 +16,7 @@ operation
 * Description:
 *   This project tries to load a CYACD file of the specified name from an
 *	attached SD card,and then also enumerates as a USB HID Device to allow 
-*	USB Bootloading as well.
+*	USB Bootloading as well.(VID=0x04B4, PID=0xB71D)
 *  To test bootloader:
 *	1. Add the emFile dependencies for "emf32noslfn" configuration as explained
 *	   in the emFile datasheet.(See "Creating an emFile Project for a PSoC 3 Application" on Page 5)

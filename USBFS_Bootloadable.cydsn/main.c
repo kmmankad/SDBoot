@@ -39,8 +39,8 @@ This file contains the code for the test case Bootloadable.
 ********************************************************************************
 * Summary:
 *  The main function will be called from Bootloder after 2.5 sec delay and 
-*  displays "BootloadableTest" message on the LCD.
-*  This delay is set in DWR file in USBFS_Bootloder project.
+*  displays "Hello World!" message on the LCD.
+*  This delay is set in DWR file in USBFS_Bootloader project.
 *
 * Parameters:
 *  None.
